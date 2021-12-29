@@ -29,8 +29,8 @@
  				<artifactId>tomcat-maven-plugin</artifactId>
   				<configuration>
 			        <url>http://localhost:8080/manager</url>
-				<username>mavenuser</username>
-				<password>mavenpass</password>
+				<username>tomcat</username>
+				<password>s3cret</password>
 				<path>/HelloWorld</path>
 				<warFile>%WORKSPACE%/target/hello-world-war-1.0.0.war</warFile>
 				</configuration>
