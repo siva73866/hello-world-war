@@ -32,7 +32,7 @@
 				<username>tomcat</username>
 				<password>s3cret</password>
 				<path>/HelloWorld</path>
-				<warFile>%WORKSPACE%/target/hello-world-war-1.0.0.war</warFile>
+				<warFile>%WORKSPACE%//target//hello-world-war-1.0.0.war</warFile>
 				</configuration>
 			</plugin>
 		</plugins>
