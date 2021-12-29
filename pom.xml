@@ -30,9 +30,9 @@
   				<configuration>
 			        <url>http://localhost:8080/manager/html</url>
 				<username>admin</username>
-				<password>admin</password>
+				<password>password</password>
 				<path>/HelloWorld</path>
-				<warFile>target/hello-world-war-1.0.0.war</warFile>
+				<warFile>target/hello-world-war-1.0.0.war</warFile>password
 				</configuration>
 			</plugin>
 		</plugins>
